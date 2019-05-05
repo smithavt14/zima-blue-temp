@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Sansation';
+  src: url('Sansation_Regular.ttf') format('truetype');
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+.body {
+  height: 100vh;
+  width: 100vw;
+  background-color: #5BC2E7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-family: Sansation;
+}
